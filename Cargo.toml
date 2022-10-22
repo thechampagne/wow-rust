@@ -1,0 +1,12 @@
+[package]
+name = "wow-rs"
+version = "1.0.0"
+description = "Rust binding for wow-cgo"
+authors = ["XXIV"]
+homepage = "https://github.com/thechampagne/wow-rust"
+repository = "https://github.com/thechampagne/wow-rust"
+readme = "README.md"
+license = "MIT"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
